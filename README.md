@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Namrata%20Suryavanshi&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descSize=15&descAlignY=55" width="100%" alt="Header"/>
 
-<img src="PASTE_PHOTO_URL_HERE" width="150" height="150" alt="Namrata Suryavanshi"/>
+<img src="https://github.com/namratasuryavanshi422-coder/namratasuryavanshi422-coder/blob/main/WhatsApp%20Image%202026-06-03%20at%209.32.29%20AM.jpeg?raw=true" width="150" height="150" alt="Namrata Suryavanshi"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Hi+there!+I'm+Namrata+%F0%9F%91%8B;Computer+Science+Engineering+Student;Building+AI-Powered+Projects;Learning+C%2B%2B+%26+Data+Structures;Turning+Ideas+Into+Working+Projects" alt="Typing intro"/>
